@@ -8,7 +8,7 @@ import Header from './header'
 
 class Main extends Component {
     componentDidMount() {
-        this.props.fetchData(`http://api.tvmaze.com/search/shows?q=stargate`)
+        this.props.fetchData(`https://api.tvmaze.com/search/shows?q=stargate`)
     }
     render() {
         let gallery,

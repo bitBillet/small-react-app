@@ -16,3 +16,20 @@
         padding-top: 10px;
     }
 }
+.container-fluid.header {
+    background-color: green;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+    .container {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        color: white;
+        input {
+            width: 200px;
+        }
+    }
+}
