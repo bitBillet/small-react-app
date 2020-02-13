@@ -19,7 +19,7 @@ class Main extends Component {
                 const { id, image, name } = item.show
                 return (
                     <Col key={index}>
-                     <Link to={`/info/${index}`}>
+                     <Link to={`/about/${index}`}>
                          <img src={image ? image.medium : null} alt={id}/>
                      </Link>
                      <p style={{marginTop: 10}}> {name} </p>

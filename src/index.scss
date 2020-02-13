@@ -1,4 +1,5 @@
-.gallery{
+@import '~bootstrap/scss/bootstrap';
+.gallery {
     margin-top: 60px;
     .col {
         text-align: center;
@@ -7,5 +8,11 @@
         img {
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
         }
+    }
+}
+.container.About {
+    text-align: center;
+    .col {
+        padding-top: 10px;
     }
 }
