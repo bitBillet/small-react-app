@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/small-react-app/static/css/main.f295fad4.chunk.css",
+    "main.js": "/small-react-app/static/js/main.dfa6a6d3.chunk.js",
+    "main.js.map": "/small-react-app/static/js/main.dfa6a6d3.chunk.js.map",
+    "runtime-main.js": "/small-react-app/static/js/runtime-main.7fedbf88.js",
+    "runtime-main.js.map": "/small-react-app/static/js/runtime-main.7fedbf88.js.map",
+    "static/js/2.eb10e1d7.chunk.js": "/small-react-app/static/js/2.eb10e1d7.chunk.js",
+    "static/js/2.eb10e1d7.chunk.js.map": "/small-react-app/static/js/2.eb10e1d7.chunk.js.map",
+    "index.html": "/small-react-app/index.html",
+    "precache-manifest.81a1fd6bce9a984dc2f25a6623346204.js": "/small-react-app/precache-manifest.81a1fd6bce9a984dc2f25a6623346204.js",
+    "service-worker.js": "/small-react-app/service-worker.js",
+    "static/css/main.f295fad4.chunk.css.map": "/small-react-app/static/css/main.f295fad4.chunk.css.map",
+    "static/js/2.eb10e1d7.chunk.js.LICENSE.txt": "/small-react-app/static/js/2.eb10e1d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fedbf88.js",
+    "static/js/2.eb10e1d7.chunk.js",
+    "static/css/main.f295fad4.chunk.css",
+    "static/js/main.dfa6a6d3.chunk.js"
+  ]
+}
