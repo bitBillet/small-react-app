@@ -18,16 +18,17 @@
 }
 .container-fluid.header {
     background-color: green;
-    height: 50px;
+    min-height: 50px;
     position: fixed;
     top: 0;
     z-index: 1000;
     .container {
-        height: 100%;
+        min-height: 50px;
         display: flex;
         align-items: center;
         justify-content: space-evenly;
         color: white;
+        font-size: 14px;
         input {
             width: 200px;
         }

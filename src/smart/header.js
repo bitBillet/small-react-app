@@ -13,13 +13,13 @@ class Header extends Component{
         return (
           <Container fluid={true} className="header">
             <Container>
-              <div>ИСКАТЬ ФИЛЬМ</div>
+              <div>ИСКАТЬ ФИЛЬМ →</div>
               <input
                 type="search"
                 placeholder="search movie(eng only)"
                 onChange={this.searchHandler}
               />
-              <div>СМОТРЕТЬ ИНФОРМАЦИЮ О ФИЛЬМЕ ПО КЛИКУ</div>
+              <div>↓ СМОТРЕТЬ ИНФОРМАЦИЮ О ФИЛЬМЕ ПО КЛИКУ</div>
             </Container>
           </Container>
         );
